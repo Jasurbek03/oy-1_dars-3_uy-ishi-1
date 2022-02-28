@@ -1,0 +1,26 @@
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+ul {
+    font-size: 16px;
+    text-align: center;
+}
+
+.text-below {
+    font-size: 22px;
+    font-weight: bold;
+}
